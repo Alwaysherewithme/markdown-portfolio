@@ -9,7 +9,7 @@
 4. SQL
 
 
-**web** stacks
+__web__ stacks
 
 - React
     - *JSX*
@@ -18,4 +18,4 @@
 - Vue
     - Vue-router
     - Vuex
-- Angular
+- _Angular_
