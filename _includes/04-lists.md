@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+my favorite fruits
+
+- banana
+- strawberry
+- kiwi
+- mango
